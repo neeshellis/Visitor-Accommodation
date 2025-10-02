@@ -1,0 +1,372 @@
+{
+  "User": [
+    {
+      "id": 1,
+      "username": "martinelliot",
+      "password": "Pass01!temp",
+     "firstname": "Elliot",
+      "lastname": "Martin",
+      "email": "elliot.martin1@example.com",
+      "mobile": "02642594527"
+    },
+    {
+      "id": 2,
+      "username": "bailey2",
+      "password": "Pass02!temp",
+      "firstname": "Bailey",
+      "lastname": "Taylor",
+      "email": "bailey.taylor2@example.com",
+      "mobile": "02432422679"
+    },
+    {
+      "id": 3,
+      "username": "casey3",
+      "password": "Pass03!temp",
+      "firstname": "Casey",
+      "lastname": "Johnson",
+      "email": "casey.johnson3@example.com",
+      "mobile": "02917047912"
+    },
+    {
+      "id": 4,
+      "username": "devon4",
+      "password": "Pass04!temp",
+      "firstname": "Devon",
+      "lastname": "Brown",
+      "email": "devon.brown4@example.com",
+      "mobile": "02101954582"
+    },
+    {
+      "id": 5,
+      "username": "frankieC",
+      "password": "Pass05!temp",
+      "firstname": "Frankie",
+      "lastname": "Clark",
+      "email": "frankie.clark2@example.com",
+      "mobile": "02214892584"
+    },
+    {
+      "id": 6,
+      "username": "frankie6",
+      "password": "Pass06!temp",
+      "firstname": "Frankie",
+      "lastname": "Wilson",
+      "email": "frankie.wilson6@example.com",
+      "mobile": "02938339928"
+    },
+    {
+      "id": 7,
+      "username": "harper7",
+      "password": "Pass07!temp",
+     "firstname": "Harper",
+      "lastname": "King",
+      "email": "harper.king3@example.com",
+      "mobile": "02693701711"
+    },
+    {
+      "id": 8,
+      "username": "indie8",
+      "password": "Pass08!temp",
+      "firstname": "Indie",
+      "lastname": "Clark",
+      "email": "indie.clark8@example.com",
+      "mobile": "02128147924"
+    }
+  ],
+  "Accommodation": [
+    {
+      "id": 1,
+      "userid": 1,
+      "property": "The BunkHouse",
+      "address": "25 Gunn Road",
+      "maxguests": 5
+    },
+    {
+      "id": 2,
+      "userid": 2,
+      "property": "The Cottage",
+      "address": "25 Gunn Road",
+      "maxguests": 2
+    },
+    {
+      "id": 3,
+      "userid": 3,
+      "property": "The Valley Inn",
+      "address": "78 James Road",
+      "maxguests": 4
+    },
+    {
+      "id": 4,
+      "userid": 4,
+      "property": "The BunkHouse",
+      "address": "25 Gunn Road",
+      "maxguests": 5
+    },
+    {
+      "id": 5,
+      "userid": 5,
+      "property": "The Cottage",
+      "address": "25 Gunn Road",
+      "maxguests": 2
+    },
+    {
+      "id": 6,
+      "userid": 6,
+      "property": "The Valley Inn",
+      "address": "78 James Road",
+      "maxguests": 4
+    },
+    {
+      "id": 7,
+      "userid": 7,
+      "property": "The BunkHouse",
+      "address": "25 Gunn Road",
+      "maxguests": 5
+    },
+    {
+      "id": 8,
+      "userid": 8,
+      "property": "The Cottage",
+      "address": "25 Gunn Road",
+      "maxguests": 2
+    }
+  ],
+  "Booking": [
+    {
+      "id": 1,
+      "userid": 1,
+      "accommodationid": 1,
+      "quantityofguests": 2,
+      "datein": "2025-07-01 00:00:00",
+      "dateout": "2025-07-03 00:00:00",
+      "price": 450
+    },
+    {
+      "id": 2,
+      "userid": 2,
+      "accommodationid": 2,
+      "quantityofguests": 2,
+      "datein": "2025-07-04 00:00:00",
+      "dateout": "2025-07-07 00:00:00",
+      "price": 420
+    },
+    {
+      "id": 3,
+      "userid": 3,
+      "accommodationid": 3,
+      "quantityofguests": 3,
+      "datein": "2025-07-07 00:00:00",
+      "dateout": "2025-07-11 00:00:00",
+      "price": 650
+    },
+    {
+      "id": 4,
+      "userid": 4,
+      "accommodationid": 4,
+      "quantityofguests": 4,
+      "datein": "2025-07-11 00:00:00",
+      "dateout": "2025-07-13 00:00:00",
+      "price": 780
+    },
+    {
+      "id": 5,
+      "userid": 5,
+      "accommodationid": 5,
+      "quantityofguests": 2,
+      "datein": "2025-07-16 00:00:00",
+      "dateout": "2025-07-19 00:00:00",
+      "price": 450
+    },
+    {
+      "id": 6,
+      "userid": 6,
+      "accommodationid": 6,
+      "quantityofguests": 1,
+      "datein": "2025-07-21 00:00:00",
+      "dateout": "2025-07-25 00:00:00",
+      "price": 250
+    },
+    {
+      "id": 7,
+      "userid": 7,
+      "accommodationid": 7,
+      "quantityofguests": 3,
+      "datein": "2025-07-26 00:00:00",
+      "dateout": "2025-07-28 00:00:00",
+      "price": 550
+    },
+    {
+      "id": 8,
+      "userid": 8,
+      "accommodationid": 8,
+      "quantityofguests": 2,
+      "datein": "2025-07-31 00:00:00",
+      "dateout": "2025-08-03 00:00:00",
+      "price": 450
+    }
+  ],
+  "Review": [
+    {
+      "id": 1,
+      "userid": 1,
+      "accommodationid": 1,
+      "bookingid": 1,
+      "datein": "2025-07-01 00:00:00",
+      "review": "Wonderful stay with gorgeous views.",
+      "rating": 5
+    },
+    {
+      "id": 2,
+      "userid": 3,
+      "accommodationid": 3,
+      "bookingid": 3,
+      "datein": "2025-07-04 00:00:00",
+      "review": "Cozy and clean. Would return.",
+      "rating": 4
+    },
+    {
+      "id": 3,
+      "userid": 4,
+      "accommodationid": 4,
+      "bookingid": 4,
+      "datein": "2025-07-07 00:00:00",
+      "review": "Great location close to the skifield.",
+      "rating": 5
+    },
+    {
+      "id": 4,
+      "userid": 5,
+      "accommodationid": 5,
+      "bookingid": 5,
+      "datein": "2025-07-11 00:00:00",
+      "review": "Hosts were helpful and friendly.",
+      "rating": 5
+    },
+    {
+      "id": 5,
+      "userid": 6,
+      "accommodationid": 6,
+      "bookingid": 6,
+      "datein": "2025-07-16 00:00:00",
+      "review": "Spacious and quiet \u2014 perfect retreat.",
+      "rating": 4
+    },
+{
+      "id": 6,
+      "userid": 8,
+      "accommodationid": 8,
+      "bookingid": 8,
+      "datein": "2025-07-16 00:00:00",
+      "review": "Spacious and quiet \u2014 perfect retreat.",
+      "rating": 4
+    }
+  ],
+  "Activities": [
+    {
+      "id": 1,
+      "userid": 1,
+      "bookingid": 1,
+      "activity": "Quad Biking",
+      "preferreddate": "2025-07-02",
+      "numberofguests": 1
+    },
+    {
+      "id": 2,
+      "userid": 3,
+      "bookingid": 3,
+      "activity": "Horse Riding",
+      "preferreddate": "2025-07-05",
+      "numberofguests": 2
+    },
+    {
+      "id": 3,
+      "userid": 5,
+      "bookingid": 5,
+      "activity": "Wine Tour",
+      "preferreddate": "2025-07-08",
+      "numberofguests": 2
+    },
+    {
+      "id": 4,
+      "userid": 6,
+      "bookingid": 6,
+      "activity": "Fly Fishing",
+      "preferreddate": "2025-07-12",
+      "numberofguests": 1
+    },
+    {
+      "id": 5,
+      "userid": 8,
+      "bookingid": 8,
+      "activity": "Milford scenic flight",
+      "preferreddate": "2025-07-17",
+      "numberofguests": 2
+    }
+  ],
+  "Contact": [
+    {
+      "id": 1,
+      "firstname": "Elliot",
+      "lastname": "Martin",
+      "email": "elliot.martin1@example.com",
+      "mobile": "02642594527",
+      "inquiry": "Do you have storage for skis?"
+    },
+    {
+      "id": 2,
+      "firstname": "Frankie",
+      "lastname": "Clark",
+      "email": "frankie.clark2@example.com",
+      "mobile": "02214892584",
+      "inquiry": "Do you have storage for skis?"
+    },
+    {
+      "id": 3,
+      "firstname": "Harper",
+      "lastname": "King",
+      "email": "harper.king3@example.com",
+      "mobile": "02693701711",
+      "inquiry": "Any discount for 7+ nights?"
+    },
+    {
+      "id": 4,
+      "firstname": "Indie",
+      "lastname": "Wright",
+      "email": "indie.wright4@example.com",
+      "mobile": "02914872291",
+      "inquiry": "Is early check-in possible?"
+    },
+    {
+      "id": 5,
+      "firstname": "Jordan",
+      "lastname": "Walker",
+      "email": "jordan.walker5@example.com",
+      "mobile": "02692962139",
+      "inquiry": "Do you allow late check-in?"
+    },
+    {
+      "id": 6,
+      "firstname": "Kai",
+      "lastname": "Young",
+      "email": "kai.young6@example.com",
+      "mobile": "02441814814",
+      "inquiry": "Is there a cot available for infants?"
+    },
+    {
+      "id": 7,
+      "firstname": "Logan",
+      "lastname": "Smith",
+      "email": "logan.smith7@example.com",
+      "mobile": "02745646977",
+      "inquiry": "Can we arrange airport pickup?"
+    },
+    {
+      "id": 8,
+      "firstname": "Morgan",
+      "lastname": "Taylor",
+      "email": "morgan.taylor8@example.com",
+      "mobile": "02653145374",
+      "inquiry": "Is there a cot available for infants?"
+    }
+  ]
+}

@@ -1,0 +1,173 @@
+{
+  "accommodation": [
+    {
+      "id": 1,
+      "title": "The Valley Inn, Cardrona ",
+      "images": [ "/assets/images/valleyinn/valleyinnview.jpeg", "/assets/images/valleyinn/valleyinn.jpg", "/assets/images/valleyinn/livingvalleyinn.jpg","/assets/images/valleyinn/cardronavalleyinn.jpg", "/assets/images/valleyinn/bernieandernie.jpg"],
+      "description": "'Sun, Snow & Seclusion in the Cardrona Valley'",
+      "amenities": "Queen bed * double sofabed & living  2 ensuites * linen * bathrobes * hairdryer * soaps & shampoos * barfridge * convection microwave * bbq * outside patio * firepit * hottub ",
+      "capacity": "Price per night for 2 guests, sleeps up to 4",
+      "price": "$230"
+    },
+
+    {
+      "id": 2,
+      "title": "The Cottage, Albert Town",
+      "images": [ "/assets/images/cottage/cottage-main.jpeg", "/assets/images/cottage/cottage-living1.jpeg", "/assets/images/cottage/cottage-kitchen.jpg", "/assets/images/cottage/cottage-queen.jpg", "/assets/images/cottage/cottage-shower.jpg", "/assets/images/cottage/cottage-bathroom.jpg", "/assets/images/cottage/courtyard.jpeg"],
+      "description": "'Cosy luxurious cottage a stone's through from the mighty Clutha River!'",
+      "amenities": "Queen bed & 3 king size single bunkbeds * kitchen living * ensuite & laundry * linen * iron * hairdryer * soaps & shampoos * fridge * convection microwave * cooking top * dishwasher * logburner * bbq * outside patio ",
+      "capacity": "Price per night for 2 guests, sleeps up to 2",
+      "price": "$160 "
+    },
+
+    {
+      "id": 3,
+      "title": "The BunkHouse, Albert Town",
+      "images": [ "/assets/images/bunkhouse/bunkhouse-living1.jpeg", "/assets/images/bunkhouse/bunkhouse-living2jpeg", "/assets/images/bunkhouse/bunkhouse-living.jpeg", "/assets/images/bunkhouse/bunkhouse-bathroom.jpeg", "/assets/images/bunkhouse/bunkhouse.jpeg", "/assets/images/bunkhouse/bunkhouse-front.jpeg","/assets/images/bunkhouse/bunkhouse-living1.jpeg"],
+      "description": "'Bikers Delight! 44m2 self contained cottage, perfect for family and friends'",
+      "amenities": "Queen bed * sitting area * kitchenette * ensuite * linen * iron * hairdryer * soaps & shampoos * fridge * convection microwave * cooking top * logburner * bbq * outside patio ",
+      "capacity": "Price per night for 2 guests, sleeps up to 5",
+      "price": "$220"
+    }
+  ],
+
+
+ "activities": [
+    {
+      "id": 1,
+      "title": "Milford Flight",
+      "image": "/assets/images/activities/milfordflight.jpeg",
+      "description": "Once in a lifetime scenic flight from Wanaka to Milford Sound, via Mt Aspiring National Park and a boat trip on Milford Sound."
+    },
+
+    {
+      "id": 2,
+      "title": "Fly Fishing",
+      "image": "/assets/images/activities/flyfishing.jpg",
+      "description": "Aspiring Fly Fishing offers guided fly fishing for wild brown & rainbow trout in the NZ South Island's gin clear waters. "
+    },
+
+    {
+      "id": 3,
+      "title": "Wine Tour",
+      "image": "/assets/images/activities/winetours.jpeg",
+      "description": "Enjoy the best hidden wine gems in Central Otago with Wanaka Wine Tours, including the renowned Mt Difficulty."
+    },
+
+    {
+       "id": 4,
+      "title": "Horse Trekking",
+      "image": "/assets/images/activities/horsetrekking.jpeg",
+      "description": "Backcountry Saddle Expeditions will take you off the beaten track riding Appaloosa horses."
+    },
+
+    {
+      "id": 5,
+      "title": "Quadbiking",
+      "image": "/assets/images/activities/quadbiking.jpeg",
+     "description": "A four hour adventure exploring the history of the Cardrona Valley, true meaning of adventure!"
+    },
+
+    {
+       "id": 6,
+      "title": "Massage",
+      "image": "/assets/images/activities/massage.jpeg",
+     "description": "A relaxing massage in the luxury of your own room by The Sanctury Spa for 90 minutes."
+    }
+  ],
+
+"reviews": [
+    {
+      "id": 1,
+      "review": "Hu Ling stayed at the The Valley Inn - 'We had a fabulous time, thank you! You  were very welcoming and accommodating. Lovely touches like the teabags, toast toppings and local area info.  Such a beautiful place to stay with stunning scenery, the view from the windows and spa were fantastic. The spa was just what we needed after a day of skiing! We also loved meeting Bernie and Ernie the sheep,  and Billie the dog.'"
+    },
+
+    {
+      "id": 2,
+      "review": "The Lloyd Family from Auckland booked the BunkHouse - 'Neesh and Roger are lovely hosts 😊. We stayed at their accommodation for our weekend bike trip, and we have to say everything was beyond our expectation!! The place is very warm and cosy, just what you need after a long day at the mountain. It was lovely to hangout by the river and Patisserie too! The location is excellent if you want to explore the local tracks. We are returning next year!'"
+      
+    },
+
+    {
+      "id": 3,
+      "review": "Janie and Brad from New York about The Cottage - 'We had a fabulous time, thank you! You  were very welcoming and accommodating. Lovely touches like the teabags, toast toppings and local area info.  Such a beautiful place to stay with stunning scenery, the view from the windows and scenery were spectacular, thankyou so much for a memorable stay in a special corner of New Zealand.'"
+    }
+  ],
+
+ "user": [
+
+  {
+    "id": 1,
+    "username": "emmathompson#1",
+    "password": "SecurePass123!",
+    "firstname": "Emma",
+    "lastname": "Thompson",
+    "email": "emma.thompson@email.com",
+    "mobile": 212555001
+  },
+  {
+    "id": 2,
+    "username": "jameswilson@2",
+    "password": "MountainView456",
+    "firstname": "James",
+    "lastname": "Wilson",
+    "email": "james.wilson@email.com",
+    "mobile": 212555002
+  },
+  {
+    "id": 3,
+    "username": "sophiamartinez*3",
+    "password": "LakeLife789",
+    "firstname": "Sophia",
+    "lastname": "Martinez",
+    "email": "sophia.martinez@email.com",
+    "mobile": 212555003
+  },
+  {
+    "id": 4,
+    "username": "liamanderson!4",
+    "password": "Alpine2024!",
+    "firstname": "Liam",
+    "lastname": "Anderson",
+    "email": "liam.anderson@email.com",
+    "mobile": 212555004
+  },
+  {
+    "id": 5,
+    "username": "oliviataylor$5",
+    "password": "NZTravel567",
+    "firstname": "Olivia",
+    "lastname": "Taylor",
+    "email": "olivia.taylor@email.com",
+    "mobile": 212555005
+  },
+  {
+    "id": 6,
+    "username": "noahchen&6",
+    "password": "SouthernAlps88",
+    "firstname": "Noah",
+    "lastname": "Chen",
+    "email": "noah.chen@email.com",
+    "mobile": 212555006
+  },
+  {
+    "id": 7,
+    "username": "avaoconnor%7",
+    "password": "Adventure2024",
+    "firstname": "Ava",
+    "lastname": "O'Connor",
+    "email": "ava.oconnor@email.com",
+    "mobile": 212555007
+  },
+  {
+    "id": 8,
+    "username": "ethanpatel+8",
+    "password": "MagicPlace99",
+    "firstname": "Ethan",
+    "lastname": "Patel",
+    "email": "ethan.patel@email.com",
+    "mobile": 212555008
+  }
+]
+
+}
