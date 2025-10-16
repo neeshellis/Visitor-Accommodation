@@ -49,10 +49,10 @@ export default function HomePage() {
     width: 'calc(100% - 20px)', 
     height: 'auto', 
     display: 'block',
-    margin: '35vh auto 60px auto', // Centers horizontally and adds bottom margin
+    margin: '35vh auto 60px auto', 
     border: '6px solid rgba(247, 247, 244, 0.7)',
-    borderRadius: 2, // Optional: adds rounded corners
-    boxSizing: 'border-box' // Includes border in width calculation
+    borderRadius: 2, 
+    boxSizing: 'border-box' 
   }}
     autoPlay
     muted

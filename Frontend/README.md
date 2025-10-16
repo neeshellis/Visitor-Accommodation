@@ -19,4 +19,4 @@ Implementing the Build.
 
 3. Functionality - I tried to keep the interface clean and simple.  The functionality has been challenging in areas, esp the Bookings page, however will continue to work on these. The user flow is also really important and issues arise once you have an interface up and running and really get the User Experience happening.  I am still completing the functionality behind some of the buttons.  The Json data file has displayed successfully.
 
-4. Backend Integration - 
+4. Backend Integration - When ready I merged the FrontEnd Branch with the main branch, once successful then I merged the BackEnd.  So now both branches are sitting in the one main branch in my overriding Visitor Accommodation Folder.

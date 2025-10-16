@@ -42,7 +42,7 @@
 }
 
 .app-container {
-  background-image: url('./assets/images/wānaka-tree.jpeg');
+  background-image: url('../assets/images/wānaka-tree.jpeg');
   opacity: 0.8;
   background-size: cover;
   background-position: center;
